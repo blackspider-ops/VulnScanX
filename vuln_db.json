@@ -1,0 +1,5 @@
+{
+    "22": {"service": "SSH", "cve": "CVE-2023-1234", "risk": "High"},
+    "80": {"service": "HTTP", "cve": "CVE-2022-5678", "risk": "Medium"},
+    "445": {"service": "SMB", "cve": "CVE-2021-8765", "risk": "Critical"}
+}
